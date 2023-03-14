@@ -2,8 +2,8 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>www.yuanyuanyuan.ltd/1/01/</loc></url><url>
-      <loc>www.yuanyuanyuan.ltd/categories/</loc></url><url>
-      <loc>www.yuanyuanyuan.ltd/</loc></url><url>
-      <loc>www.yuanyuanyuan.ltd/posts/</loc></url><url>
-      <loc>www.yuanyuanyuan.ltd/tags/</loc></url></urlset>
+      <loc>www.yuanyuanyuan.ltd/my-first-blog/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>www.yuanyuanyuan.ltd/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>www.yuanyuanyuan.ltd/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>www.yuanyuanyuan.ltd/posts/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+      <loc>www.yuanyuanyuan.ltd/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
