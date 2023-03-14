@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>All Posts - Oh Yes!</title>
+    <link>www.yuanyuanyuan.ltd/posts/</link>
+    <description>All Posts | Oh Yes!</description>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="www.yuanyuanyuan.ltd/posts/" rel="self" type="application/rss+xml" /><item>
+  <title></title>
+  <link>www.yuanyuanyuan.ltd/1/01/</link>
+  <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+  <author>Author</author>
+  <guid>www.yuanyuanyuan.ltd/1/01/</guid>
+  <description><![CDATA[--- title: &#34;我的第一篇博客&#34; author: &#34;xiongxinwei&#34; description : &#34;我的第一篇博客，介绍了hugo&#34; date: 2022-08-21 lastmod: 2022-08-21 tags : [ &#34;go&#34;, ] categories : [ &#34;博客&#34;, ] keywords : [ &#34;go&#34;,&#34;hugo&#34;, ] --- 这里是Markdown 正文]]></description>
+</item>
+</channel>
+</rss>
